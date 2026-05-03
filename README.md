@@ -1,0 +1,2 @@
+Basic recipe page.
+
